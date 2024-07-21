@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Data Analysis Project-Cricket",
+      "imageSrc": "projects/cricket.png",
+      "description":"A project dedicated to analyzing cricket data and visualizing it efficiently. Websites were created using HTML, CSS, and JavaScript to showcase cricket rules, calculate statistics, and provide data visualizations.",
+      "skills": ["Python", "Excel", "PowerBI"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/AyushPandey2411/Cricket-Data-Analysis-and-Visualization"
+    },
+    {
+      "title": "Social Networking Website-Full Stack Web Development Project",
+      "imageSrc": "projects/snw.png",
+      "description": "Developed a social networking website using the MERN stack, allowing users to create profiles, connect with friends, create and share posts, and engage in various social activities.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/AyushPandey2411/WT_Project"
+    },
+    {
+      "title": "Exploratory Data Analysis of the Titanic Dataset",
+      "imageSrc": "projects/titanic.png",
+      "description": "Conducted extensive exploratory data analysis on the Titanic dataset, uncovering passenger survival insights and patterns. This project included data cleaning and preparation for predictive modeling.",
+      
+      "skills": ["Python", "Pandas", "Sckit-Learn"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/AyushPandey2411/Exploratory-Data-Analysis-of-the-Titanic-Dataset"
+    }
+  ]

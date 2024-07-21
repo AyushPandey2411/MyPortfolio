@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Google Maps Hackathon Semi-Finalist",
+      "organisation": "Google ",
+      "startDate": "Oct, 2023",
+      "endDate": " Nov,2023",
+      "experiences": ["Worked on Google Maps", "created solution on problem statement-Pollution Control in India"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "GirlScript Summer of Code'24 Contributor",
+      "organisation": "GSSOC",
+      "startDate": "May, 2024",
+      "endDate": " Present",
+      "experiences": ["This enriching experience allowed me to collaborate with a diverse group of talented individuals on innovative open-source projects that positively impact the tech community."],
+      "imageSrc": "history/gssoc.png"
+    },
+    {
+      "role": "Designing Head",
+      "organisation": "E-Cell,RGIPT",
+      "startDate": "Nov, 2023",
+      "endDate": " Present",
+      "experiences": [
+        "Managed a team of 4 members for the E-Cell",
+        "Designed Brochure and Posts for different events"
+      ],
+      "imageSrc": "history/ecell.png"
+    }
+  ]
